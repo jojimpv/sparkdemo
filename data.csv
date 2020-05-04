@@ -1,0 +1,100 @@
+Quarter Ending,Department,UnitNo,Vendor Number,Vendor,City,State,DeptID Description,DeptID,Amount,Account,AcctNo,Fund Description,Fund
+09/30/2009,Environmental Conservation,06140,0000276016,1st Run Computer Services Inc,,NY,WQD - Waterbury,6140040206,930.00,Rep&Maint-Info Tech Hardware,513000,Environmental Permit Fund,21295
+09/30/2009,Environmental Conservation,06140,0000276016,1st Run Computer Services Inc,,NY,Water Supply Division - Wtby,6140040406,930.00,Rep&Maint-Info Tech Hardware,513000,Environmental Permit Fund,21295
+09/30/2009,Vermont Veterans' Home,03300,0000284121,210 Innovations LLC,,CT,MAINTENANCE,3300010300,24.00,Freight & Express Mail,517300,Vermont Medicaid,21782
+09/30/2009,Vermont Veterans' Home,03300,0000284121,210 Innovations LLC,,CT,MAINTENANCE,3300010300,420.00,Building Maintenance Supplies,520200,Vermont Medicaid,21782
+09/30/2009,Corrections,03480,0000207719,21st Century Cellular,,PA,Brattleboro P&P,3480004630,270.80,Telecom-Wireless Phone Service,516659,General Fund,10000
+09/30/2009,Corrections,03480,0000207719,21st Century Cellular,,PA,Springfield P&P,3480004730,35.00,Telecom-Wireless Phone Service,516659,General Fund,10000
+09/30/2009,Public Safety,02140,0000010258,3M Co,,PA,DPS-AD-SS-Off of Tech Serv,2140011220,971.40,Other General Supplies,520500,General Fund,10000
+09/30/2009,"Agriculture, Food & Markets",02200,0000010258,3M Co,,TX,Ag Development Division,2200030000,60.59,Medical and Lab Supplies,521810,General Fund,10000
+09/30/2009,"Agriculture, Food & Markets",02200,0000010258,3M Co,,TX,Laboratory Section,2200043000,541.62,Medical and Lab Supplies,521810,General Fund,10000
+09/30/2009,Health,03420,0000010258,3M Co,,PA,HS Lab-Microbiology,3420021209,283.98,Medical and Lab Supplies,521810,Federal Revenue Fund,22005
+09/30/2009,Health,03420,0000010258,3M Co,,TX,HS Lab-Microbiology,3420021209,505.35,Medical and Lab Supplies,521810,General Fund,10000
+09/30/2009,VT Offender Work Program,03675,0000010258,3M Co,,PA,VOWP-Resale-Sheetmetal,3675091010,23473.10,Road Supplies and Materials,521600,Correctional Industries Fund,59100
+09/30/2009,VT Offender Work Program,03675,0000010258,3M Co,,PA,VOWP - Sign Shop - Resale,3675091011,-495.00,Road Supplies and Materials,521600,Correctional Industries Fund,59100
+09/30/2009,Agency of Transportation,08100,0000010258,3M Co,,TX,Maintenance,8100002000,1735.20,Road Supplies and Materials,521600,Transp Fund - Nondedicated,20105
+09/30/2009,"Forest, Parks & Recreation",06130,0000277548,4 Generations Masonry,,VT,Rehab Aging St Park Infrastruc,6130990801,6150.00,Other Contr and 3rd Pty Serv,507600,Natural Resources Proj Fund,31500
+09/30/2009,"Forest, Parks & Recreation",06130,0000277548,4 Generations Masonry,,VT,Rehab Aging St Park Infrastruc,6130990801,2400.00,Other Repair & Maint Serv,513200,Natural Resources Proj Fund,31500
+09/30/2009,"Forest, Parks & Recreation",06130,0000277548,4 Generations Masonry,,VT,Rehab Aging St Park Infrastruc,6130990801,3500.00,Repairs&Maint-Property/Grounds,513210,Natural Resources Proj Fund,31500
+06/30/2017,Defender General's Office,02110,0000043657,Buildings & General Services-Postal,Montpelier,VT,AC Caledonia,2110011500,14.94,Postage-BGS Postal Svcs Only,517205,General Fund,10000
+09/30/2009,Agency of Transportation,08100,0000016981,4imprint Inc,,WI,Maintenance,8100002000,1352.61,Cloth & Clothing,520520,Transp Fund - Nondedicated,20105
+09/30/2009,Children and Family Services,03440,0000268665,5 Star Childcare Center,,VT,DCFS - Child Development,3440030000,23989.49,Child Care Subsidy Employ/Trai,603500,Federal Revenue Fund,22005
+09/30/2009,Children and Family Services,03440,0000268665,5 Star Childcare Center,,VT,DCFS - Child Development,3440030000,213.45,Child Care Incapacity,603540,Federal Revenue Fund,22005
+09/30/2009,Education,05100,0000000531,592 Green Mountain Council,,VT,Student Support/Safe & Healthy,5100038000,9423.36,Other Grants,550500,Federal Revenue Fund,22005
+09/30/2009,Buildings & Gen Serv-Gov'tal,01150,0000018295,646-Fairpoint Communications,,NC,BGS-Info Center-Alburg,1150400300,404.85,Internet,516620,General Fund,10000
+06/30/2017,Fish & Wildlife,06120,0000043657,Buildings & General Services-Postal,Montpelier,VT,Enforcement - Montpelier HQ,6120050000,779.42,Postage-BGS Postal Svcs Only,517205,F&W Fund - Nondedicated,20305
+09/30/2009,Liquor Control,02300,0000018295,646-Fairpoint Communications,,NC,DLC - Administrative,2300003010,142.62,Tele-Internet-DSL-Cable Modem,516626,Liquor Control Fund,50300
+06/30/2017,Transportation Agency,08100,0000006776,Bibens Home Center Inc,N Springfield,VT,Maintenance & Ops Bureau,8100002000,15.99,Communications,516600,Transp Fund - Nondedicated,20105
+06/30/2017,VOSHA Review Board,01280,0000279225,"O'Brien,Benjamin R",Randolph,VT,VOSHA Review Board,1280000000,75.00,Per Diem,506000,General Fund,10000
+09/30/2009,"Forest, Parks & Recreation",06130,0000018295,646-Fairpoint Communications,,NC,Parks,6130030000,3223.46,Telecom-Telephone Service,516652,State Forest Parks Fund,21270
+09/30/2009,Agency of Transportation,08100,0000018295,646-Fairpoint Communications,,NC,Department of Motor Vehicles,8100002100,89.90,Tele-Internet-DSL-Cable Modem,516626,Transp Fund - Nondedicated,20105
+09/30/2009,Agency of Transportation,08100,0000018295,646-Fairpoint Communications,,NC,Maintenance,8100002000,97.63,Telecom-Telephone Service,516652,Transp Fund - Nondedicated,20105
+09/30/2009,Agency of Transportation,08100,0000018295,646-Fairpoint Communications,,NC,Department of Motor Vehicles,8100002100,113.71,Telecom-Telephone Service,516652,Transp Fund - Nondedicated,20105
+09/30/2009,"Agriculture, Food & Markets",02200,0000288962,96 Degrees Inc,,VT,Ag Development Division,2200030000,750.00,Other Grants,550500,Federal Revenue Fund,22005
+09/30/2009,Liquor Control,02300,0000006994,A & B Beverage & Redemption,,VT,DLC - Liquor Control Fund,2300001000,704.50,DLC  - Bottle Redemption Exp,523110,Liquor Control Fund,50300
+09/30/2009,Fish & Wildlife,06120,0000006994,A & B Beverage & Redemption,,VT,Wildlife - Pittsford,6120021300,76.00,Registration & Identification,523640,F&W Fund - Nondedicated,20305
+09/30/2009,"Forest, Parks & Recreation",06130,0000004489,A & D Automotive,,VT,Parks,6130030000,171.50,Rep & Maint - Motor Vehicles,512300,State Forest Parks Fund,21270
+09/30/2009,Agency of Transportation,08100,0000012694,A B Container Co,,CT,Program Development,8100001100,1869.24,Medical and Lab Supplies,521810,Transp Fund - Nondedicated,20105
+09/30/2009,"Forest, Parks & Recreation",06130,0000006438,A B L E Waste Management,,VT,Parks,6130030000,2453.00,Rubbish Removal,510210,State Forest Parks Fund,21270
+09/30/2009,Environmental Conservation,06140,0000270398,A Bellavance & Sons Inc &,,VT,Petroleum Clean-up Fund,6140030400,10544.68,Environmental Site Work,519150,Petroleum Cleanup Fund,21255
+09/30/2009,Agency of Transportation,08100,0000218010,A C Cook Electric,,VT,Aviation,8100000200,158.00,Other Contr and 3rd Pty Serv,507600,Transp Fund - Nondedicated,20105
+09/30/2009,Agency of Transportation,08100,0000218010,A C Cook Electric,,VT,Program Development,8100001100,400.00,Other Contr and 3rd Pty Serv,507600,Transp Fund - Nondedicated,20105
+09/30/2009,Agency of Transportation,08100,0000218010,A C Cook Electric,,VT,Maintenance,8100002000,6861.67,Other Contr and 3rd Pty Serv,507600,Transp Fund - Nondedicated,20105
+09/30/2009,Agency of Transportation,08100,0000006753,A C Paving Corporation,,VT,Maintenance,8100002000,3410.50,Rent-Heavy Eq-Trks&Constr Eq,514600,Inter-Unit Transfers Fund,21500
+09/30/2009,Agency of Transportation,08100,0000006753,A C Paving Corporation,,VT,Bridge Maintenance Program,8100005400,25150.53,Prop-Bldg&Lsehold Infra Improv,522800,Transp Fund - Nondedicated,20105
+09/30/2009,Agency of Transportation,08100,0000006753,A C Paving Corporation,,VT,Bridge Maintenance Program,8100005400,100602.15,Prop-Bldg&Lsehold Infra Improv,522800,Transportation FHWA Fund,20135
+09/30/2009,Buildings & Gen Serv-Capital,01180,0000273738,A Cooper Mechanical,,VT,State Buildings-Various Projec,705200010,32760.00,Contr&3rd Pty-Appr/Engineering,507300,General Gov Projects Fund,31100
+09/30/2009,Buildings & Gen Serv-Capital,01180,0000273738,A Cooper Mechanical,,VT,State Buildings-Various Proj,904300010,19920.00,Contr&3rd Pty-Appr/Engineering,507300,General Gov Projects Fund,31100
+09/30/2009,Health,03420,0000014102,A F Murphy Die & Machine Co,,MA,HS Lab-Chemistry,3420021210,539.66,Medical and Lab Supplies,521810,General Fund,10000
+09/30/2009,Health,03420,0000014102,A F Murphy Die & Machine Co,,MA,HS Lab-Chemistry,3420021210,180.01,Medical and Lab Supplies,521810,Inter-Unit Transfers Fund,21500
+09/30/2009,Military Department,02150,0000018634,A G Industries,,WA,AIR - 100%,2150021000,153.00,Educational Supplies,520540,Federal Revenue Fund,22005
+09/30/2009,Military Department,02150,0000010434,A H Harris & Sons Inc,,CT,AIR - 75/25,2150022000,125.10,Building Maintenance Supplies,520200,General Fund,10000
+09/30/2009,Military Department,02150,0000010434,A H Harris & Sons Inc,,CT,AIR - 75/25,2150022000,500.40,Building Maintenance Supplies,520200,Federal Revenue Fund,22005
+06/30/2017,Judiciary,02120,0000013095,Neopost USA  Inc,Milford,CT,Judicial Bureau,2120070000,172.50,Rental - Office Equipment,514650,General Fund,10000
+06/30/2017,Transportation Agency,08100,SINGLE,"MASON,ROGER,S JR",FRANKLIN,VT,Department of Motor Vehicles,8100002100,25.00,Agency Fund Payments,551400,DMV-Unidentified Receipts,63094
+09/30/2009,Health,03420,0000073814,AHS-Administrative Fund,,VT,LH Burlington DO,3420021505,1.78,Food,520700,Federal Revenue Fund,22005
+09/30/2009,"Forest, Parks & Recreation",06130,0000104710,A Johnson Co,,VT,Rustic Cabins,6130990902,243.00,Building Maintenance Supplies,520200,Comm & Commnty Dev Proj Fund,31600
+09/30/2009,Children and Family Services,03440,0000032988,A K Sparhawk Inc,,VT,DCFS - Child Development,3440030000,11756.53,Child Care Subsidy Employ/Trai,603500,Federal Revenue Fund,22005
+09/30/2009,Children and Family Services,03440,0000032988,A K Sparhawk Inc,,VT,DCFS - Child Development,3440030000,4372.30,Child Care Subsidy Protect SVC,603510,Federal Revenue Fund,22005
+09/30/2009,Agency of Transportation,08100,0000005196,A L ST Onge Contractor Inc,,VT,Program Development,8100001100,1009825.37,Prop-Bldg&Lsehold Infra Improv,522800,Transportation FHWA Fund,20135
+09/30/2009,Agency of Transportation,08100,0000005196,A L ST Onge Contractor Inc,,VT,Program Development,8100001100,252456.33,Prop-Bldg&Lsehold Infra Improv,522800,TR Infrastructure Bond Fund,20191
+09/30/2009,Buildings & Gen Serv-Prop,01160,0000001464,A L Tyler & Sons Inc,,VT,BGS-Springfield Corr Facility,1160550513,105.69,Heating & Ventilation,520211,Facilities Operations Fund,58800
+09/30/2009,Agency of Transportation,08100,0000001464,A L Tyler & Sons Inc,,VT,Transportation Buildings,8100000700,371.40,Electricity,521100,Transp Fund - Nondedicated,20105
+06/30/2017,Environmental Conservation,06140,0000270421,BGS Catamount Health Assessment,Montpelier,VT,Geology Division,6140020506,158.77,Catamount Health Assessment,505700,Inter-Unit Transfers Fund,21500
+09/30/2009,Banking Ins Sec Hlth Care Adm,02210,0000010580,A M Best Company Inc,,PA,Ins. Rate/Form Filings,2210014000,5870.00,Books&Periodicals-Library/Educ,521500,Insurance Regulatory & Suprv,21075
+09/30/2009,Agency of Transportation,08100,0000006460,A Nadeau & Co Inc,,VT,Maintenance,8100002000,406.24,Road Supplies and Materials,521600,Transp Fund - Nondedicated,20105
+09/30/2009,Buildings & Gen Serv-Prop,01160,0000014250,A R Sandri Inc,,MA,BGS-Springfld-St Office Bldg,1160550510,7312.18,Heating Oil #2 - Uncut,521220,Facilities Operations Fund,58800
+09/30/2009,Public Safety,02140,0000014250,A R Sandri Inc,,MA,DPS-AD-SS-Fleet Services,2140011210,12606.02,Gasoline,520110,General Fund,10000
+09/30/2009,Corrections,03480,0000014250,A R Sandri Inc,,MA,Southeast State,3480004280,15858.20,Heating Oil #2 - B10%,521223,General Fund,10000
+06/30/2017,Military,02150,0000317189,Workplace Safety Solutions Inc,Williston,VT,Army - 100%,2150030000,1000.00,Contr&3rd Pty-Educ & Training,507350,Federal Revenue Fund,22005
+06/30/2017,Labor,04100,0000360679,"Anderson,Debra M.",St George,VT,WIA Disbursements,4100510160,133.70,Contr&3rd Pty-Participant,507575,Federal Revenue Fund,22005
+09/30/2009,Environmental Conservation,06140,0000272024,A R Sandri Inc & DB Environmental,,MA,Petroleum Clean-up Fund,6140030400,5021.00,Environmental Site Work,519150,Petroleum Cleanup Fund,21255
+09/30/2009,Environmental Conservation,06140,0000185088,A R Sandri Inc & KAS Inc,,MA,Petroleum Clean-up Fund,6140030400,1435.35,Environmental Site Work,519150,Petroleum Cleanup Fund,21255
+06/30/2017,Children and Families,03440,0000294583,"Killington Pico Ski Resort Partners, LLC",Killington,VT,DCFS - Child Development,3440030000,1730.84,Child Care Subsidy Protect SVC,603510,Federal Revenue Fund,22005
+09/30/2009,Information & Innovation,01105,0000009354,A T & T,,NJ,DII Enterprise Computing,1105500200,159.00,Data Circuits,516610,Information Technology,58100
+09/30/2009,Information & Innovation,01105,0000009356,A T & T,,NJ,CIT-Telecom-Demand,1105509100,2102.69,Cost of Telephone Service,525230,Information Technology,58100
+09/30/2009,Judiciary,02120,0000009356,A T & T,,AZ,Windham Superior Court,2120211300,485.01,Telecom-Long Distance Service,516655,General Fund,10000
+09/30/2009,Judiciary,02120,0000009356,A T & T,,AZ,Windsor Superior Court,2120211400,193.38,Telecom-Long Distance Service,516655,General Fund,10000
+09/30/2009,State's Attorneys and Sheriffs,02130,0000009356,A T & T,,AZ,Essex - State's Attorneys,2130100020,169.86,Telecom-Telephone Service,516652,General Fund,10000
+09/30/2009,State's Attorneys and Sheriffs,02130,0000009356,A T & T,,AZ,Bennington - Sheriffs,2130200005,111.31,Telecom-Telephone Service,516652,General Fund,10000
+09/30/2009,State's Attorneys and Sheriffs,02130,0000009356,A T & T,,AZ,Orange - Sheriffs,2130200040,1696.18,Telecom-Telephone Service,516652,General Fund,10000
+09/30/2009,Public Safety,02140,0000009356,A T & T,,AZ,PS-FS-Hazmat Response Team,2140044000,25.00,Communications,516600,Haz Chem & Subst Emerg Resp,21125
+09/30/2009,Public Safety,02140,0000009356,A T & T,,IL,PS-FS-Hazmat Response Team,2140044000,75.00,Communications,516600,Haz Chem & Subst Emerg Resp,21125
+09/30/2009,Public Safety,02140,0000009356,A T & T,,IL,DPS-RERP-Administration,2140081000,1.00,Communications,516600,Radiological Emerg Response,21025
+06/30/2017,Buildings & Gen Serv-Prop,01160,0000045300,Buildings & General Svcs-Purchasing Card,Montpelier,VT,BGS-Mont-6 Baldwin Street,1160550004,3.99,Building Maintenance Supplies,520200,Facilities Operations Fund,58800
+09/30/2009,VT Department of Labor,04100,0000009356,A T & T,,AZ,SESA Disbursements,4100510000,2051.40,Telecom-Telephone Service,516652,Federal Revenue Fund,22005
+09/30/2009,Fish & Wildlife,06120,0000009356,A T & T,,AZ,Hatcheries - Salisbury,6120040500,78.86,Telecom-Telephone Service,516652,F&W Fund - Nondedicated,20305
+06/30/2017,Children and Families,03440,0000358094,Beth's Stepping Stones Day School LLC,Berlin,VT,DCFS - Child Development,3440030000,435.67,Child Care Subsidy Protect SVC,603510,Federal Revenue Fund,22005
+09/30/2009,"Forest, Parks & Recreation",06130,0000009356,A T & T,,IL,Parks,6130030000,28.54,Telecom-Telephone Service,516652,State Forest Parks Fund,21270
+09/30/2009,Environmental Conservation,06140,0000009356,A T & T,,IL,Enforcement Div - Waterbury,6140020406,65.13,Telecom-Telephone Service,516652,Environmental Permit Fund,21295
+09/30/2009,Agency of Transportation,08100,0000009356,A T & T,,AZ,Maintenance,8100002000,10.15,Telecom-Telephone Service,516652,Transp Fund - Nondedicated,20105
+09/30/2009,Commerce & Community Dev Admin,07100,0000009352,A T & T Media Services,,CT,Marketing Program,7100000015,1062.50,Advertising - TV,516811,Inter-Unit Transfers Fund,21500
+09/30/2009,Information & Innovation,01105,0000283499,A T & T Mobility,,IL,DII Commissioner,1105500050,146.04,Telecom-Mobile Wireless Data,516623,Information Technology,58100
+09/30/2009,Information & Innovation,01105,0000283499,A T & T Mobility,,IL,DII-Telecommunications,1105500100,41.76,Telecom-Mobile Wireless Data,516623,Information Technology,58100
+09/30/2009,Information & Innovation,01105,0000283499,A T & T Mobility,,IL,DII Enterprise Computing,1105500200,191.30,Telecom-Mobile Wireless Data,516623,Information Technology,58100
+09/30/2009,Information & Innovation,01105,0000283499,A T & T Mobility,,IL,DII-Server & Application Group,1105500320,804.48,Telecom-Mobile Wireless Data,516623,Information Technology,58100
+09/30/2009,Information & Innovation,01105,0000283499,A T & T Mobility,,IL,DII-Customer Support,1105500400,162.25,Telecom-Mobile Wireless Data,516623,Information Technology,58100
+09/30/2009,Information & Innovation,01105,0000283499,A T & T Mobility,,IL,Network Engineering,1105501000,22.65,Telecom-Mobile Wireless Data,516623,Information Technology,58100
+09/30/2009,Information & Innovation,01105,0000283499,A T & T Mobility,,IL,CIT-Customer Support-Demand,1105509400,25.20,Telecom-Mobile Wireless Data,516623,Information Technology,58100
+09/30/2009,Information & Innovation,01105,0000283499,A T & T Mobility,,IL,DII-Telecommunications,1105500100,96.31,Hardware-Pers Mobile Devices,522258,Information Technology,58100
+09/30/2009,Information & Innovation,01105,0000283499,A T & T Mobility,,IL,DII Enterprise Computing,1105500200,94.92,Hardware-Pers Mobile Devices,522258,Information Technology,58100
